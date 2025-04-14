@@ -165,12 +165,3 @@ Visit `http://localhost:5000` in your browser to access the Bus Management Syste
    - View and update your personal details on the **Profile** page.
 
 ---
-
-## Contact
-
-Created by [Rakshit Gupta](https://www.linkedin.com/in/rakshit9/)
-
-📧 Email: 2021a1r050@mietjammu.in<br>
-🔗 LinkedIn: https://www.linkedin.com/in/rakshit9/ <br>
-🐙 GitHub: https://github.com/Rakshitgupta9
----
